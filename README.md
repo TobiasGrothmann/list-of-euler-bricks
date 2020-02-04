@@ -3,7 +3,7 @@
 
 ## What is this?
 
-This repository contains a list of all three dimensional Euler-bricks within '1 <= **a** < **b** < **c** <= 10 million' – found using brute force on a MacBook Pro.
+This repository contains a list of all three dimensional Euler-bricks with side lengths within '1 <= **a** < **b** < **c** <= 10 million' – found using brute force on a MacBook Pro.
 
 Euler-bricks are cuboids where all edges and all diagonals have integer lengths. A perfect Euler-brick would have a space diagonal with integer length as well. Such a cuboid has not yet been found and also not yet been proven to not exist.
 
