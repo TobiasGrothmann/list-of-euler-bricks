@@ -12,9 +12,9 @@ Euler-bricks are cuboids where all edges and all diagonals have integer lengths.
 
 ## some facts
 
-The smallest Euler-brick there is has the dimensions *44*, *117*, *240*. The one with the biggest side **a** that I could find has the dimensions of *8.618.610*, *9.100.520*, *9.854.208*.
+The smallest Euler-brick there is has the dimensions *44*, *117*, *240*. The one with the biggest side **a** that I could find has the dimensions of *8,618,610*, *9,100,520*, *9,854,208*.
 
-In total, this list contains 139.592 Euler-bricks, only 659 of which are not multiples of smaller bricks.
+In total, this list contains 139,592 Euler-bricks, only 659 of which are not multiples of smaller bricks.
 
 
 ## links
